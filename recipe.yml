@@ -1,0 +1,9 @@
+name: 'Bikeclub View modes'
+description: 'Recipe is installed/included in bikeclub-editors and bikeclub-media.'
+type: 'View modes'
+install:
+  - media
+config:
+  import:
+    media: '*'
+      
